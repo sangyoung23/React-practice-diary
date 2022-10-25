@@ -1,0 +1,74 @@
+/* Editer */
+.DiaryEditer {
+  border: 1px solid black;
+  text-align: center;
+  padding: 20px;
+}
+.DiaryEditer h2 {
+  font-size: 30px;
+  font-weight: 900;
+  color: #0066ff;
+}
+.DiaryEditer input,
+textarea {
+  margin-top: 20px;
+  width: 500px;
+  padding: 10px;
+}
+.DiaryEditer textarea {
+  height: 150px;
+}
+.DiaryEditer select {
+  width: 300px;
+  padding: 10px;
+  margin: 20px 0;
+}
+.DiaryEditer span {
+  margin-right: 10px;
+}
+.DiaryEditer button {
+  width: 500px;
+  padding: 10px;
+  border: none;
+  border-radius: 10px;
+  font-weight: 700;
+  background-color: #64a2ff;
+  cursor: pointer;
+}
+
+/* List */
+.DiaryList {
+  border: 1px solid black;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+.DiaryList h2 {
+  text-align: center;
+}
+
+/* item */
+.DiaryItem {
+  margin-bottom: 10px;
+  padding: 20px;
+  background-color: rgb(240, 240, 240);
+}
+.DiaryItem .info {
+  display: flex;
+  justify-content: space-between;
+  padding-bottom: 10px;
+  margin-bottom: 10px;
+  border-bottom: 2px solid gray;
+}
+.DiaryItem .remove button {
+  border: none;
+  cursor: pointer;
+}
+.DiaryItem .content {
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+.DiaryItem .date {
+  text-align: right;
+  color: gray;
+}
