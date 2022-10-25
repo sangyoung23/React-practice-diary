@@ -1,3 +1,13 @@
+# React-practice-Diary
+
+리액트 기초 연습 미니 다이어리 ( css x )
+
+##
+
+
+<img width="639" alt="스크린샷 2022-10-25 오후 5 12 56" src="https://user-images.githubusercontent.com/76932869/197720108-b7357a53-ac0b-4676-b429-c6f20dc2893b.png">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
